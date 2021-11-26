@@ -6,5 +6,5 @@ int main()
     int c=10;
     int d=10;
     int e=a+b+c+d;
-    printf("%i",e)
+    printf("%i",e);
 }
